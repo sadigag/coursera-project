@@ -1,2 +1,4 @@
-# coursera-project
-Course Era Applied Data Science Capstone Project
+# Applied Data Science Capstone 
+This is coursera project of AI and ML
+
+
